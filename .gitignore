@@ -1,0 +1,13 @@
+data/nuscenes
+data/nuscenes_mini
+data/kitti/detection
+output
+*.pth
+*.txt
+*.pyc
+*.obj
+build
+*.pyd
+*.egg-info
+__pycache__
+*.pkl
